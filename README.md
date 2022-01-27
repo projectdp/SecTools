@@ -1,8 +1,6 @@
 # Introduction
 
 <p align="center"> 
-<img src="https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/_images/INSFOSEC%20HOUSE%20WORD%20LOGO.png">
-<br>
 <br>
 <img src="https://img.shields.io/github/last-commit/infosechouse/infosechouse?color=%23947cb0&style=for-the-badge"><br>
 <img src="https://img.shields.io/twitter/follow/infosechouse?style=social"><br>
@@ -119,7 +117,6 @@ Anonymous, [0xgnnr](https://www.twitch.tv/0xgnnr), [0xrom](https://www.twitch.tv
 | Organization | Hyperlink |
 | :--- | :--- |
 | Discord | [https://discord.gg/FWe9bjDBfY](https://discord.gg/FWe9bjDBfY) |
-| Instagram | [https://www.instagram.com/InfosecHouse/](https://www.instagram.com/InfosecHouse/) |
 | Twitter | [https://twitter.com/InfosecHouse/](https://twitter.com/InfosecHouse/) |
 | Telegram | [https://t.me/InfosecHouse/](https://t.me/InfosecHouse/) |
 | Twitch | [https://www.twitch.tv/InfosecHouse/](https://www.twitch.tv/InfosecHouse/) |
