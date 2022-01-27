@@ -8,11 +8,11 @@ An <a href="https://twitter.com/0xPGP" target="_blank">@0xPGP</a> Project
 </p>
 
 <h4 align="center">
-Infosec resource center for offensive and defensive security operations.
+Tools & Resource center for offensive and defensive security operations.
 </h4>
 <br>
 
-A curated list of many tools and resources for both offensive and defensive security teams. Please visit [https://infosec.house/](https://infosec.house/) for our website version of this repo. Found a resources that should be on here? Feel free to submit a pull request!
+A curated list of many tools and resources for both offensive and defensive security teams. Please visit [SecTools.io](http://sectools.io/) for our website version of this repo. Found a resources that should be on here? Feel free to submit a pull request!
 
 ## Defensive Security
 ![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-190-947cb0)

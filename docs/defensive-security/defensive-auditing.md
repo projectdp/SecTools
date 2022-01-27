@@ -12,11 +12,11 @@ Stay in compliance with your audits.
 
 | Tool | Description | Directory |
 | :--- | :--- | :--- |
-| [Nipper](https://www.titania.com/products/) | Discovers vulnerabilities in firewalls, switches and routers, automatically prioritizing risks to your organization. | ![freemium-service](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/freemium-service.png) ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/register-profile.png) |
+| [Nipper](https://www.titania.com/products/) | Discovers vulnerabilities in firewalls, switches and routers, automatically prioritizing risks to your organization. | ![freemium-service](https://raw.githubusercontent.com/0xPGP/SecTools/main/docs/icons/freemium-service.png) ![register-profile](https://raw.githubusercontent.com/0xPGP/SecTools/main/docs/icons/register-profile.png) |
 
 ## Network
 
 | Tool | Description | Directory |
 | :--- | :--- | :--- |
-| [Netscan Tools Pro](https://netscantools.com/nstpromain.html) | Integrated collection of internet information gathering and network troubleshooting utilities for Network Professionals. | ![freemium-service](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/freemium-service.png) ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/register-profile.png) |
+| [Netscan Tools Pro](https://netscantools.com/nstpromain.html) | Integrated collection of internet information gathering and network troubleshooting utilities for Network Professionals. | ![freemium-service](https://raw.githubusercontent.com/0xPGP/SecTools/main/docs/icons/freemium-service.png) ![register-profile](https://raw.githubusercontent.com/0xPGP/SecTools/main/docs/icons/register-profile.png) |
 

@@ -43,8 +43,8 @@ Talks, live-streams, and presentations.
 
 | Resource | Description | Directory |
 | :--- | :--- | :--- |
-| [HackListX](https://hacklistx.github.io/) | A list of Hacking Streamers. | ![last-commit](https://img.shields.io/github/last-commit/HackListX/HackListX.github.io?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |
-| [InfoSec Streamers](https://infosecstreams.github.io) | InfoSec streamers list sorted based on 14-day activity to help you find active streamers more easily. | ![last-commit](https://img.shields.io/github/last-commit/infosecstreams/infosecstreams.github.io?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |
+| [HackListX](https://hacklistx.github.io/) | A list of Hacking Streamers. | ![last-commit](https://img.shields.io/github/last-commit/HackListX/HackListX.github.io?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/0xPGP/SecTools/main/docs/icons/opensource.png) |
+| [InfoSec Streamers](https://infosecstreams.github.io) | InfoSec streamers list sorted based on 14-day activity to help you find active streamers more easily. | ![last-commit](https://img.shields.io/github/last-commit/infosecstreams/infosecstreams.github.io?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/0xPGP/SecTools/main/docs/icons/opensource.png) |
 
 ## Movies
 
@@ -56,7 +56,7 @@ Talks, live-streams, and presentations.
 ## Past Conference Presentations
 
 <p align="center"> 
-<a href="https://infocon.org/" target="_blank"><img src="https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/img/partners-and-sponsors/infocon.png"></a>
+<a href="https://infocon.org/" target="_blank"><img src="https://raw.githubusercontent.com/0xPGP/SecTools/main/docs/img/partners-and-sponsors/infocon.png"></a>
 </p>
 
 ## TV Shows

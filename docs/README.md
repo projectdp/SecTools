@@ -8,7 +8,7 @@ An <a href="https://twitter.com/0xPGP" target="_blank">@0xPGP</a> Project
 </p>
 
 <h4 align="center">
-Infosec resource center for offensive and defensive security operations.
+Tools & Resource center for offensive and defensive security operations.
 </h4>
 <br>
 

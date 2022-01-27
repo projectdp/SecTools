@@ -12,4 +12,4 @@ Courses useful for both red & blue teams.
 
 | Tool | Descrption | Directory |
 | :--- | :--- | :--- |
-| [Hacksplaining](https://www.hacksplaining.com/) | Security training for developers. | ![freemium-service](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/freemium-service.png) ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/register-profile.png) |
+| [Hacksplaining](https://www.hacksplaining.com/) | Security training for developers. | ![freemium-service](https://raw.githubusercontent.com/0xPGP/SecTools/main/docs/icons/freemium-service.png) ![register-profile](https://raw.githubusercontent.com/0xPGP/SecTools/main/docs/icons/register-profile.png) |
