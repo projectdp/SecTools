@@ -3,7 +3,7 @@
 <p align="center">
 <img src="/docs/_images/sectoolsBanner.png">
 <br>
-<img src="https://img.shields.io/github/last-commit/infosechouse/infosechouse?color=%233c85d4&style=for-the-badge"><br>
+<img src="https://img.shields.io/github/last-commit/0xpgp/SecTools?color=%233c85d4&style=for-the-badge"><br>
 <img src="https://img.shields.io/twitter/follow/infosechouse?style=social"><br>
 An <a href="https://twitter.com/0xPGP" target="_blank">@0xPGP</a> Project
 </p>
