@@ -2,7 +2,7 @@
 
 Operating system's solely focused for offensive security teams.
 
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-4-947cb0?style=for-the-badge)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-4-3c85d4?style=for-the-badge)
 
 ## Links <!-- {docsify-ignore} -->
 
@@ -12,7 +12,7 @@ Operating system's solely focused for offensive security teams.
 
 | Tool | Description | Directory |
 | :--- | :--- | :--- |
-| [Exegol](https://github.com/ShutdownRepo/Exegol) | A fully featured and community-driven hacking environment. | ![last-commit](https://img.shields.io/github/last-commit/ShutdownRepo/Exegol?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/0xPGP/SecTools/main/docs/icons/opensource.png) |
+| [Exegol](https://github.com/ShutdownRepo/Exegol) | A fully featured and community-driven hacking environment. | ![last-commit](https://img.shields.io/github/last-commit/ShutdownRepo/Exegol?color=3c85d4&style=flat-square) ![opensource](https://raw.githubusercontent.com/0xPGP/SecTools/main/docs/icons/opensource.png) |
 
 ## ISO/VM Images
 
