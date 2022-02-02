@@ -1,6 +1,7 @@
 # Introduction
 
-<p align="center"> 
+<p align="center">
+<img src="/docs/_images/sectoolsBanner.png">
 <br>
 <img src="https://img.shields.io/github/last-commit/infosechouse/infosechouse?color=%23947cb0&style=for-the-badge"><br>
 <img src="https://img.shields.io/twitter/follow/infosechouse?style=social"><br>
