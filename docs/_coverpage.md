@@ -1,4 +1,4 @@
-![logo](img/infosechouse-banner.png)
+![logo](_images/sectoolsLogo.png)
 
 <small>v.3.0</small>
 
