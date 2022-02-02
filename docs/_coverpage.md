@@ -1,9 +1,8 @@
 ![logo](/img/sectoolsLogo.png)
 
-<small>v.3.0</small>
+<small>v.4.0</small>
 
-> Infosec Tools & Resource Center
-
+- Infosec Tools & Resource Center
 - 1,000+ Manually Indexed Resources
 - Open-Source Resource Center
 
