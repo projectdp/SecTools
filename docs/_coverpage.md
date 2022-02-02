@@ -1,4 +1,4 @@
-![logo](_images/sectoolsLogo.png)
+![logo](/img/sectoolsLogo.png)
 
 <small>v.3.0</small>
 
