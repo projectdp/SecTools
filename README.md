@@ -67,7 +67,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 | [Wireless](docs/offensive-security/offensive-wireless.md) | Discover tools and resources for exploiting Wi-Fi, bluetooth, RFID, and more. |
 
 ## Operation Security
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-101-3c85d4)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-105-3c85d4)
 
 | Sub-Category | Description |
 | :--- | :--- |
